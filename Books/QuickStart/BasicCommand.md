@@ -1,4 +1,4 @@
-# Linux中的基础命令（装裱一下home）
+# Linux中的基础命令
 
 文章：**@CoraBlack**  
 图片：**@CoraBlack**
@@ -268,3 +268,5 @@ mv cabinet/HelliKitty_blanket.txt bed_for_girl
 我们的温馨小家终于搞定了，累死我了……🥵
 
 **ByeBye**👋
+
+[传送门 Next Page->](./FileSystem.md)
